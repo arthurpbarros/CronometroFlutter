@@ -1,0 +1,6 @@
+2022/06/03-01:03:51.107 39b8 Creating DB C:\Users\Arthur\AppData\Local\Temp\flutter_tools.4bcb588d\flutter_tools_chrome_device.843de50\Default\IndexedDB\https_www.pichau.com.br_0.indexeddb.leveldb since it was missing.
+2022/06/03-01:03:51.122 39b8 Reusing MANIFEST C:\Users\Arthur\AppData\Local\Temp\flutter_tools.4bcb588d\flutter_tools_chrome_device.843de50\Default\IndexedDB\https_www.pichau.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/03-01:03:58.355 45f0 Level-0 table #5: started
+2022/06/03-01:03:58.359 45f0 Level-0 table #5: 5480 bytes OK
+2022/06/03-01:03:58.364 45f0 Delete type=0 #3
+2022/06/03-01:03:58.364 45f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
